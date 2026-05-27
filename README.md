@@ -1,7 +1,6 @@
 # pertemuan_10_pemweb tugas
 #sandi maftuh
-<img width="1366" height="768" alt="2026-05-27 (22)" src="https://github.com/user-attachments/assets/70fb97c3-06fa-49b3-855b-18fd33113508" />
-<img width="1366" height="768" alt="2026-05-27 (16)" src="https://github.com/user-attachments/assets/9f56be7c-cfdb-40a2-9498-8135837177f3" />
+
 <img width="1366" height="768" alt="2026-05-27 (24)" src="https://github.com/user-attachments/assets/4756950d-aff0-419d-8390-d50e9991ef54" />
 daftar buku: <img width="1366" height="768" alt="2026-05-27 (27)" src="https://github.com/user-attachments/assets/e2a34851-ed25-4312-9f0a-c3e1f42ce7e9" />
 <img width="1366" height="768" alt="2026-05-27 (29)" src="https://github.com/user-attachments/assets/daeaf6be-d92d-46d5-b044-3ed9ead9fa6a" />
@@ -14,3 +13,5 @@ daftar buku: <img width="1366" height="768" alt="2026-05-27 (27)" src="https://g
 <img width="1366" height="768" alt="2026-05-27 (8)" src="https://github.com/user-attachments/assets/2c4a0770-3438-43c9-aaaf-df52de8c19df" />
 <img width="1366" height="768" alt="2026-05-27 (20)" src="https://github.com/user-attachments/assets/1e45b19e-4ce7-4a15-980b-2f495374c18d" />
 <img width="1366" height="768" alt="2026-05-27 (22)" src="https://github.com/user-attachments/assets/2d17920d-5b27-45af-88dc-264c45f2ad97" />
+<img width="1366" height="768" alt="2026-05-27 (22)" src="https://github.com/user-attachments/assets/70fb97c3-06fa-49b3-855b-18fd33113508" />
+<img width="1366" height="768" alt="2026-05-27 (16)" src="https://github.com/user-attachments/assets/9f56be7c-cfdb-40a2-9498-8135837177f3" />
