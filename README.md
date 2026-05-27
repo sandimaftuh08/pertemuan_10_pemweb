@@ -8,6 +8,10 @@ daftar buku: <img width="1366" height="768" alt="2026-05-27 (27)" src="https://g
 #testing acesor scope
 <img width="1366" height="768" alt="2026-05-27 (32)" src="https://github.com/user-attachments/assets/f84e962b-3e27-452a-ad6c-1f253a7bc225" />
 <img width="1366" height="768" alt="2026-05-27 (33)" src="https://github.com/user-attachments/assets/21fcbce8-5810-4cee-b816-7e7d430de596" />
+
+#
+#
+#
 #praktikum
 <img width="1366" height="768" alt="2026-05-27 (2)" src="https://github.com/user-attachments/assets/12f291ca-ac33-4c16-af5b-5ab1717c43bb" />
 <img width="1366" height="768" alt="2026-05-27 (8)" src="https://github.com/user-attachments/assets/2c4a0770-3438-43c9-aaaf-df52de8c19df" />
